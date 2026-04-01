@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clnvrll.
 - 👀 I’m interested in Technology topics.
-- 🌱 I’m currently learning GitHub, Python and Javascript.
+- 🌱 I’m currently learning something about AI stuffs.
 - 😄 Pronouns: she/her.
 
 <!---
