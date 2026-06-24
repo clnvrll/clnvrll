@@ -1,64 +1,87 @@
-<h1 align="center">Hi, I'm Celine 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>Creative Technologist — where Business + Design + Tech collide.</em>
-</p>
+<!-- ⋆｡‧˚ʚ HEADER ɞ˚‧｡⋆ -->
 
-<p align="center">
-  <a href="https://celineevril.space/"><img src="https://img.shields.io/badge/Portfolio-celineevril.space-6C5CE7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/celineevril"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:clnvrll@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+✦ ｡ﾟ☆: *.☽ .* :☆ﾟ. ✦
 
----
+# ‧₊˚ ♡ Hi, I'm Celine ♡ ˚₊‧
 
-### 🚀 About Me
+### ꒰ა ☆ Creative Technologist ☆ ໒꒱
+*‧₊˚ where Business ⊹ Design ⊹ Tech come together ˚₊‧*
+
+`(づ ᴗ _ᴗ)づ ♡ welcome to my little corner of github ♡`
+
+<br>
+
+<a href="https://celineevril.space/"><img src="https://img.shields.io/badge/♡_Portfolio-1B2A4A?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/celineevril"><img src="https://img.shields.io/badge/♡_LinkedIn-2C3E66?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:clnvrll@gmail.com"><img src="https://img.shields.io/badge/♡_Email-3B4D7A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br>
+
+⋆˚࿔ ｡⋆｡˚☽˚｡⋆ ｡⋆˚࿔
+
+</div>
+
+## ꒰ ⊹ ˚. ☁️ about me ☁️ .˚ ⊹ ꒱
 
 ```python
-celine = {
-    "role": "Creative Technologist",
-    "studying": "Business Admin @ CCP '28",
-    "builds": ["app prototypes", "educational games", "engineering pitches"],
-    "stack": ["Python", "Figma", "UX Design"],
-    "languages": ["English", "Indonesian", "Hokkien", "Korean", "Chinese"],
-    "mantra": "Useful, thoughtful, and worth the effort.",
-}
+class Celine:
+    def __init__(self):
+        self.role     = "Creative Technologist ✦"
+        self.studying = "Business Admin @ CCP '28 ♡"
+        self.builds   = ["app prototypes", "educational games", "engineering pitches"]
+        self.stack    = ["Python", "Figma", "UX Design"]
+        self.speaks   = ["English", "Indonesian", "Hokkien", "Korean", "Chinese"]
+        self.mantra   = "useful, thoughtful & worth the effort ✿"
 ```
 
-I take ideas from sketch to working build — and explain them to people who don't speak code. I prototype apps, design STEM learning games, and pitch engineering solutions through programs like **Launchpad Philly**, **CreateAccess**, and **UPenn Access Engineering**.
+> *I take ideas from sketch ✎ to working build ⌨ — and explain them to people who don't speak code.* ꒰ ´ ˘ ` ꒱
+>
+> I prototype apps, design STEM learning games, and pitch engineering solutions through **Launchpad Philly** ⋆ **CreateAccess** ⋆ **UPenn Access Engineering**. ♡
 
----
+<div align="center">
 
-### 🛠️ What I Work With
+⋆ ˚｡⋆୨୧˚ ✿ ˚୨୧⋆｡˚ ⋆
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![UX Design](https://img.shields.io/badge/UX_Design-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+</div>
 
----
+## ꒰ ⊹ ˚. 🫧 my toolkit 🫧 .˚ ⊹ ꒱
 
-### 🌱 Currently
+<div align="center">
 
-- 🔭 Building cross-functional projects under real-world startup conditions
-- 🎮 Turning STEM concepts into interactive, playable learning experiences
-- 🤖 Going deeper on AI — and figuring out where it fits into the things I make
-- 🗣️ Speaking 5 languages and counting
+![Python](https://img.shields.io/badge/Python-1B2A4A?style=flat-square&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-2C3E66?style=flat-square&logo=figma&logoColor=white)
+![UX Design](https://img.shields.io/badge/UX_Design-3B4D7A?style=flat-square&logo=adobexd&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1B2A4A?style=flat-square&logo=git&logoColor=white)
 
----
+</div>
 
-### 📊 GitHub Stats
+## ꒰ ⊹ ˚. ⭐ right now ⭐ .˚ ⊹ ꒱
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clnvrll&show_icons=true&theme=tokyonight&hide_border=true" alt="Celine's GitHub Stats"/>
-</p>
+```
+🌷 ┊ building cross-functional projects under startup conditions
+🎀 ┊ turning STEM concepts into playable little learning worlds
+🤍 ┊ going deeper on AI & finding where it fits in what i make
+🌙 ┊ speaking 5 languages and counting ♡
+```
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clnvrll&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center">
 
----
+⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆
 
-<p align="center">
-  <em>"Here for projects that are useful, thoughtful, and worth the effort."</em>
-</p>
+## ꒰ ⊹ ˚. ✨ my stats ✨ .˚ ⊹ ꒱
+
+<img src="https://github-readme-stats.vercel.app/api?username=clnvrll&show_icons=true&theme=nightowl&hide_border=true&title_color=AEC6FF&icon_color=AEC6FF&text_color=FFFFFF&bg_color=1B2A4A" alt="Celine's GitHub Stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=clnvrll&theme=nightowl&hide_border=true&background=1B2A4A&ring=AEC6FF&fire=FFFFFF&currStreakLabel=AEC6FF" alt="GitHub Streak"/>
+
+<br><br>
+
+╰┈➤ *"here for projects that are useful, thoughtful, and worth the effort"* ♡
+
+✦ ｡ﾟ☆: *.☽ .* :☆ﾟ. ✦
+
+***ありがとう for visiting ♡ (ﾉ´ヮ`)ﾉ*:･ﾟ✧***
+
+</div>
