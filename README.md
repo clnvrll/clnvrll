@@ -37,7 +37,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-1B2A4A?style=flat-square&logo=python&logoColor=white)
+![Python]([https://verify.openedg.org/?id=iGk7.nHb8.XnZz])
 ![Figma](https://img.shields.io/badge/Figma-2C3E66?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1B2A4A?style=flat-square&logo=git&logoColor=white)
 
@@ -49,7 +49,7 @@
 🌷 ┊ building cross-functional projects under startup conditions
 🎀 ┊ turning STEM concepts into playable little learning worlds
 🤍 ┊ going deeper on AI & finding where it fits in what i make
-🌙 ┊ speaking 4 languages and counting ♡
+🌙 ┊ speaking 4 languages and learning something new, aiming to be better ♡
 ```
 
 <div align="center">
