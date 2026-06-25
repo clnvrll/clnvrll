@@ -37,7 +37,7 @@
 
 <div align="center">
 
-![Python]([https://verify.openedg.org/?id=iGk7.nHb8.XnZz])
+[![Python](https://img.shields.io/badge/Python-1B2A4A?style=flat-square&logo=python&logoColor=white)](https://verify.openedg.org/?id=iGk7.nHb8.XnZz)
 ![Figma](https://img.shields.io/badge/Figma-2C3E66?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1B2A4A?style=flat-square&logo=git&logoColor=white)
 
