@@ -14,7 +14,6 @@
 <br>
 
 <a href="https://celineevril.space/"><img src="https://img.shields.io/badge/♡_Portfolio-1B2A4A?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:clnvrll@gmail.com"><img src="https://img.shields.io/badge/♡_Email-3B4D7A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br>
 
